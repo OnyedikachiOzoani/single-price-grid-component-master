@@ -55,7 +55,7 @@ Desktop design: ![screenshot of the desktop design](design/single-price-grid-com
 
 ### Useful resources
 
--   [Basic concepts of Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout) - In you're not familiar with CSS grid, this is a full reference to understand the basic concepts of grid layout.
+-   [Basic concepts of Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout) - If you're not familiar with CSS grid, this is a full reference to understand the basic concepts of grid layout.
 
 -   [Positioning items against lines in CSS Grid Layout system](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Basic_concepts_of_grid_layout#positioning_items_against_lines) - This part of the documentation from MDN DOCS helped me in the desktop design, to figure out how to align the first section of the grid at the top and the other two sections at the bottom.
 
